@@ -10,7 +10,8 @@ As an example, this repository is licensed using the MIT License. You can add a 
 This repo also includes an example file (hello-simssa.py) showing how you can include the MIT license in your code. 
 You should have a license for the whole repo as well as the license text in all your files. 
 
-# Remember, if people can't figure out if they're allowed to use your stuff, they might not use it! That means NO CITATIONS! ;_;
+# If people can't figure out if they're allowed to use your stuff, they probably won't use it! 
+# That means NO CITATIONS! ;_;
 
 ## Example Mixed License
 This license notice is adapted from the notice in the Measuring Polyphony Project repository copyright 2018 Karen Desmond, which is licensed under
