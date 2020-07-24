@@ -2,13 +2,20 @@ Hi!
 
 This repo includes: 
 
-* May 2019: slides from my (Emily Hopkins') presentations on Wed. May 1 2019 -- the HR intro, the SIMSSA overview, and the software licensing introduction. 
+* July 2020 slides for the Licensing Hackathon
 
-* July 2020 slides for the Licensing Hackathon as we make our licensing more consistent for software, documentation, and symbolic scores across the whole DDMAL organization.
+* May 2020 introduction to Creative Commons licensing for symbolic scores
 
-As an example, this repository is licensed using the MIT License. You can add a license to your GitHub repo following this tutorial: https://help.github.com/en/articles/adding-a-license-to-a-repository
-This repo also includes an example file (hello-simssa.py) showing how you can include the MIT license in your code. 
-You should have a license for the whole repo as well as the license text in all your files. 
+* May 2019 (summer training slides): HR intro, the SIMSSA overview, and open source software licensing introduction. 
+
+The repo itself is also meant to serve as an example of how one might license a combination of software, symbolic music scores, and documentation.
+
+You can add a license to your GitHub repo following this tutorial: https://help.github.com/en/articles/adding-a-license-to-a-repository
+Choose the license that applies to your *software*.
+
+This repo includes an example file (hello-simssa.py) showing how you can include the MIT license in your actual code. You should have a license for the whole repo as well as the license text in all your files. 
+
+You can also include additional licenses (in the README and at the file level) so that you can use Creative Commons licenses for your symbolic scores and documentation. See below for example text.
 
 ### If people can't figure out if they're allowed to use your stuff, they probably won't use it! 
 ### That means NO CITATIONS! ;_;
@@ -21,7 +28,7 @@ The *source code* for this example repo is licensed under the [MIT license](http
 
 The *symbolic scores* in this repository (in the "scores" folder) are licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US). Any further use of this project's music transcriptions must be attributed correctly to the project and the project's editor according to the terms of this license.
 
-The *documentation* for this repository is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/). It currently consists only of this README. (If I also had a ReadtheDocs or similar I would copy the license over there too.)
+The *documentation* for this repository is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) copyright Emily Hopkins 2019-2020. It currently consists only of this README. (If I also had a ReadtheDocs or similar I would copy the license over there too.)
 
-BONUS! All presentations *slides* in this repo (in the folder "slides") are also licensed [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/).
+BONUS! All presentations *slides* in this repo (in the folder "slides") are also licensed [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) copyright Emily Hopkins 2019-2020. 
 
