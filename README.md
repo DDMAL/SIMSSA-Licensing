@@ -2,11 +2,15 @@ Hi!
 
 This repo includes: 
 
+* May 2021 slides for licensing 
+
 * July 2020 slides for the Licensing Hackathon
 
 * May 2020 introduction to Creative Commons licensing for symbolic scores
 
-* May 2019 (summer training slides): HR intro, the SIMSSA overview, and open source software licensing introduction. 
+* May 2019 the SIMSSA overview 
+
+* May 2019 open source software licensing introduction. 
 
 The repo itself is also meant to serve as an example of how one might license a combination of software, symbolic music scores, and documentation.
 
@@ -30,5 +34,5 @@ The *symbolic scores* in this repository (in the "scores" folder) are licensed u
 
 The *documentation* for this repository is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) copyright Emily Hopkins 2019-2020. It currently consists only of this README. (If I also had a ReadtheDocs or similar I would copy the license over there too.)
 
-BONUS! All presentations *slides* in this repo (in the folder "slides") are also licensed [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) copyright Emily Hopkins 2019-2020. 
+BONUS! All presentations *slides* in this repo (in the folder "slides") are also licensed [CC BY SA 4.0](https://creativecommons.org/licenses/by/4.0/) copyright Emily Hopkins 2019-2021. 
 
